@@ -1,7 +1,20 @@
 ﻿{
-  "TypeOfRice": {
-    "name": "Rice",
-    "weight": 3,
-    "prize": 60
-  }
+  "TypeOfRice": [
+    {
+      "name": "Rice1",
+      "weight": 3,
+      "prize": 60
+    },
+    {
+      "name": "Rice2",
+      "weight": 4,
+      "prize": 80
+    },
+    {
+      "name": "Rice3",
+      "weight": 5,
+      "prize": 90
+    }
+  ]
+
 }
