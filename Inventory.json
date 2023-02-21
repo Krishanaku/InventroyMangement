@@ -15,6 +15,40 @@
       "weight": 5,
       "prize": 90
     }
+  ],
+  "TypeOfPulses":[
+    {
+      "name": "pulses1",
+      "weight": 3,
+      "prize": 60
+    },
+    {
+      "name": "pulses2",
+      "weight": 4,
+      "prize": 80
+    },
+    {
+      "name": "pulses3",
+      "weight": 5,
+      "prize": 90
+    }
+  ],
+  "TypeOfWheat":[
+    {
+      "name": "wheat1",
+      "weight": 3,
+      "prize": 60
+    },
+    {
+      "name": "wheat2",
+      "weight": 4,
+      "prize": 80
+    },
+    {
+      "name": "wheat3",
+      "weight": 5,
+      "prize": 90
+    }
   ]
 
 }
