@@ -1,0 +1,19 @@
+﻿{
+  "TypesOfStock": [
+    {
+      "stockname": "Tata",
+      "numberofshare": 3,
+      "shareprice": 60
+    },
+    {
+      "stockname": "Ratnamani",
+      "numberofshare": 4,
+      "shareprice": 20
+    },
+    {
+      "stockname": "MahindraTech",
+      "numberofshare": 7,
+      "shareprice": 50
+    }
+  ]
+}
